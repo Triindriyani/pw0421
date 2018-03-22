@@ -1,0 +1,70 @@
+.wraper-login{
+			margin: 0px auto 0px auto;
+			width: 70%;
+			padding-top:50px;
+			
+}
+
+.box-login{
+			margin: 0px auto 0px auto;
+			width: 50%;
+			text-align: center;
+
+}
+
+.Silakan-login{
+			background: #DD2E2E;
+			color: #fff;
+			padding: 1px;
+			border-radius: 5px 5px 0px 0px;
+
+}
+.body{
+			padding-top: 10px;
+			padding-bottom: 10px;
+			background: #fff;
+}
+
+.border{
+			padding-top: 10px;
+			padding-bottom: 10px;
+			border-bottom: 1px solid #ddd;
+			padding: 5px;
+}
+.form{
+			width: 100%;
+			padding: 5px;
+			border: 1px solid #fff;
+}
+.form:hover{
+			border-bottom: 1px solid #1E90FF;
+
+}
+.login{
+			padding-top: 5px;
+			padding-bottom: 5px;
+			padding-left: 10px;
+			padding-right: 10px;
+			cursor: pointer;
+			background: #0000FF;
+			color: #fff;
+			border: 1px solid #1111E1;
+			border-radius: 5px;
+
+
+}
+.login:hover{
+			background: #6D8FF1;
+			border: 1px solid #1111E1;
+}
+.footer{
+		background: #FAF8F8;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		font-family: calibri;
+		color: #555;	
+		border-radius: 0px 0px 10px 10px;
+}
+body{
+		background: #000;
+}
