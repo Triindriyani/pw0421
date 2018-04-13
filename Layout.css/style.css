@@ -40,4 +40,18 @@
 	color: #f5e6ff;
 }
 
-.content{}
+.content{
+	width: 900px;
+	height: 400px;
+	margin: 0 auto;
+	background: #999;
+}
+
+.subc{
+	width: 290px;
+	height: 380px;
+	background: #fff;
+	border-radius: 10px;
+	float: left;
+	margin: 5px;
+}
